@@ -45,10 +45,15 @@ module.exports = {
         "custom4.0625": "4.0625rem",
         "custom1.875rem": "1.875rem",
         "custom624.9375rem":"624.9375rem",
+        "custom6249.9375rem": "6249.9375rem"
       },
       width: {
         "custom20.875rem": "20.875rem",
         'custom27.625rem': '27.625rem',
+        "custom26.625rem": "26.625rem",
+        "custom32rem": "32rem",
+        "custom36rem": "36rem",
+        "custom37.375rem": "37.375rem",
       },
       boxShadow: {
         "custom": "0px 8px 16px 0px rgba(0, 0, 0, 0.25)",
